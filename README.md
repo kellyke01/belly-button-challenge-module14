@@ -9,3 +9,5 @@ I then set up the layout for the chart and then inserted it into the website.
 
 I made sure each call function switced with each item change.
 I then made sure to call the initial function and made sure it all showed up into the website.
+
+in looking at this data I had no idea how much bacteria is housed in belly buttons. Seeing just how many different types there are was very interesting to me. I also could infer that majority of people HAVE a steady supply of bacteria located in their belly buttons. When looking at the data, I noticed most people have at least two different types of bacterias in rather large amounts in their belly buttons.
